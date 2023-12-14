@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://suyash12-debug.github.io/cutemugdha/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Dec 2023 12:42:39 +0530</lastBuildDate>
+    <atom:link href="https://suyash12-debug.github.io/cutemugdha/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mypost</title>
+      <link>https://suyash12-debug.github.io/cutemugdha/posts/mypost/</link>
+      <pubDate>Thu, 14 Dec 2023 12:42:39 +0530</pubDate>
+      <guid>https://suyash12-debug.github.io/cutemugdha/posts/mypost/</guid>
+      <description>this is some content</description>
+    </item>
+  </channel>
+</rss>
